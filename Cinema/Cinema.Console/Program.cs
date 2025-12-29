@@ -1,3 +1,4 @@
+using System.Globalization;
 using Cinema.Common.Models;
 using Cinema.Common.Services;
 using Cinema.Common.Extensions;
@@ -8,6 +9,8 @@ class Program
 {
     static void Main(string[] args)
     {
+        // Встановлення української локалі для правильного відображення валюти (грн)
+        CultureInfo.CurrentCulture = new CultureInfo("uk-UA");
         System.Console.OutputEncoding = System.Text.Encoding.UTF8;
 
         System.Console.WriteLine("===========================================");
