@@ -1,0 +1,49 @@
+## Dotnet
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.json.bak
+
+## Dotnet build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Mm]igs/
+
+## Visual Studio
+.vs/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+*.pidb
+*.booproj
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+## Logs
+*.log
+
+## OS
+.DS_Store
+Thumbs.db
+
+## JSON output files
+books.json
