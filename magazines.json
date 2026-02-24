@@ -1,0 +1,4002 @@
+[
+  {
+    "IssueNumber": 46,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "c75f86c5-e420-4e4f-85f9-cbe1c13565d9",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "eb0ba994-de9c-4a56-ab1b-f46d4af56952",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "dea6f2bd-f905-4838-a8c0-b0c541fe3908",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "8b537ba4-2efb-47d7-a665-07bca70bd1b9",
+    "Title": "National Geographic",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "351ba2d5-0735-4771-aa9d-06e10e45727f",
+    "Title": "Forbes Ukraine",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "1da6fb90-e084-4104-a388-9c0faa768228",
+    "Title": "National Geographic",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "49f3212c-0299-4997-8042-0cc7d6336f97",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "402fc1b1-b1f3-41b2-9d47-54aa22381dbd",
+    "Title": "National Geographic",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "bbb682c2-ba58-4913-b119-c22e1c7f5051",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "d31035e3-b55c-4a35-a3f9-bdcb7aa6a7f4",
+    "Title": "Forbes Ukraine",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "39583511-298f-4fef-8448-439d30eeeca2",
+    "Title": "Forbes Ukraine",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "f3b1291e-c152-4bfc-ac09-bbe1fd6a3817",
+    "Title": "National Geographic",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "e50b0c22-c36d-4ee3-ae2f-dc9743cdb747",
+    "Title": "Vogue UA",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 14,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "7f2a07e5-9bd4-4553-9cb3-4754ff93197c",
+    "Title": "Vogue UA",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 30,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "d4dbe677-42e0-4ef1-8f2e-2aabea3281ef",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 27,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "c2dd4b72-d63e-4ad8-bcd4-346bc37662f5",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 43,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "27ea8cad-ccb9-4b93-a2bf-9fc0066a1cc8",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 11,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "a03dff77-d895-4b05-a67a-2e8de62621f1",
+    "Title": "Forbes Ukraine",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "6295c2da-b997-4d17-937a-2b2396a61267",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "c796c415-18a2-472d-ab4b-590f161fc8ff",
+    "Title": "Forbes Ukraine",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 7,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "66c875f9-5d1f-488e-ad24-f88b0de9634a",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 15,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "4313da03-6941-4b95-9004-c51f8803404e",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 7,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "93d2b12a-be86-4d3e-ba2d-2addc4cda132",
+    "Title": "Vogue UA",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "e67e9a8b-0f22-4678-bad3-cb33b8e5999d",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "61fd9396-06cd-4466-bd2a-eb857f4e4b7d",
+    "Title": "Forbes Ukraine",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 6,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "fc6fe2c9-da2a-4e02-a65d-e1856c1f1326",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 27,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "4806b923-dcbf-45b7-bb26-b6696ec660c2",
+    "Title": "Vogue UA",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "b7d0867f-05ba-4292-a199-fb7f15131eaf",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2009
+  },
+  {
+    "IssueNumber": 41,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "ae771605-1cf4-4af7-9407-643e669a99c7",
+    "Title": "Forbes Ukraine",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 43,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "70bce47a-5e3e-41fb-b8ce-0d06abd39e18",
+    "Title": "Forbes Ukraine",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "8bca5d58-ad30-4772-8b4c-ff100f13b2e7",
+    "Title": "Vogue UA",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "4d25a03b-5bef-463c-921d-fde108726d64",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "6a87b340-b884-48f1-88cc-37b1682c345e",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 13,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "321b05bf-daf2-45d0-9e84-bde37c04501a",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "35d864f4-12b1-4be3-9362-8d9cdc86e15e",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "92cf4697-6057-4ed2-8092-096225386e36",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 11,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "58fb4abc-7a7e-472c-8dfb-e70c2c82b466",
+    "Title": "National Geographic",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 14,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "9eebbed7-e6c6-4607-8bad-90b263ecf3f4",
+    "Title": "National Geographic",
+    "Year": 2009
+  },
+  {
+    "IssueNumber": 11,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "24a6cc1a-b0f5-47b4-8ac4-a63efc6f0e78",
+    "Title": "National Geographic",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "3e630e9b-3a15-41b4-9274-5fdb7b290dbf",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 19,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "fb4a5e90-8c1b-479e-90f9-b293bbe9d1ee",
+    "Title": "Vogue UA",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "a733f9cf-5760-4806-ab82-be1d2096f32b",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 7,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "3d0e2fb1-31e4-4a1a-a1fe-854211ea248c",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "ee8d9aae-1701-4a7f-96ca-31646097323e",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "ee557cef-4bc5-41d6-8f78-d47532a6483a",
+    "Title": "National Geographic",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "33c7a240-5c22-42ee-9d94-bd307c849ba9",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 18,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "9dc16c43-78e8-4629-8992-7a580c36e043",
+    "Title": "Forbes Ukraine",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 43,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "48b9ec63-7f91-4c99-bca9-dbf7f998f3ae",
+    "Title": "Vogue UA",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 32,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "988c1e8a-f7e1-4da6-b437-848fe21160b5",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "27d89297-244f-466d-bfaa-dbaa98b2cca5",
+    "Title": "Forbes Ukraine",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "8e2acfc0-d43f-483c-a536-55e7f79e3ddc",
+    "Title": "Vogue UA",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 27,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "01e37dab-a1b7-42b4-806b-9feba54bc257",
+    "Title": "Vogue UA",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 23,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "67d15416-7de4-4441-8cf1-eb47b47bd89f",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "7c0a7676-8f68-48a7-ba85-6a48ad16bf8f",
+    "Title": "Forbes Ukraine",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "c8163b6e-2b8a-44c0-b5ff-093ba42ecf9c",
+    "Title": "Vogue UA",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "f346a432-d4f3-4d26-a971-841beb5447d8",
+    "Title": "Forbes Ukraine",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "1266a5ad-42d1-4e96-b429-d0ad614aabc5",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 41,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "acd78de0-e601-4859-8021-62d305b7d81c",
+    "Title": "Vogue UA",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "83cc1ee6-6c87-4572-bd0c-0cf09d81757e",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "df1f1e77-6060-4f3d-8ae7-fc50583f7966",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 21,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "61b288ba-6596-4a9e-9600-5fb010b7a188",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 27,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "270070f7-5797-4ed0-8e37-867047024ca3",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 25,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "72274658-3e73-4b8b-8b13-c2a6a2fac208",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 14,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "b305ea44-ec1a-4e6a-925b-1993eab32c9a",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "d6925bcf-afaa-424f-89ee-2c68c8b5a2e0",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "ced56182-781d-4522-a123-c12872d008d5",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "f1072de2-7d8c-4ab7-ac00-5d992727c53d",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "8444aeda-21c9-4c8f-b60d-34eaac27a54e",
+    "Title": "Forbes Ukraine",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "b8fde924-7d99-44af-a1c7-b8af91481e5c",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "220c0374-bd82-4b2d-8bb6-4bfec0336c18",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "bb4c6bc8-5022-4d87-a031-d10bc84e4145",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "2e82bb7f-3cd9-42db-a743-39c6ccebf80f",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "63ed2a5e-aee9-42da-98d6-7484f8b8687f",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "38154385-f394-427d-9df4-ad5715e8f4a7",
+    "Title": "National Geographic",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 19,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "10410cbd-7ca8-4fcb-95df-2b8c6584c935",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "3e6d2725-54c8-4916-8365-b3ab929fca5b",
+    "Title": "Vogue UA",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "5daa43e3-793a-43ea-bfad-e76d634bfd5e",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "21060c2f-c017-4db3-b6c3-8ae63b388d28",
+    "Title": "National Geographic",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "b62b5363-e6f4-4cbb-aca1-a2734fe90909",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 49,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "7f608c71-d725-408f-ac63-b8f7bafdb81c",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "f493da0c-b3e8-41d3-9ac9-c587c4c8e65a",
+    "Title": "Forbes Ukraine",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "9cab2e73-feaa-4d91-ad25-a71f9b99d34d",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "b9c82144-61b2-475c-bdc1-74480279382c",
+    "Title": "Forbes Ukraine",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "aa8efab8-03a6-42ab-a0ef-7e8dd2cfb618",
+    "Title": "National Geographic",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "a631f205-ac15-45ca-a32d-1a675cc30f0f",
+    "Title": "Vogue UA",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "8221c81e-0670-4674-9265-91fc63b30aec",
+    "Title": "National Geographic",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "79361ec8-10a9-43b4-9f41-8e174623a59f",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 21,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "9853ea6b-000c-459c-a714-acef84520d61",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "8bf85e89-46a5-4699-8e68-0db1af46d1f5",
+    "Title": "Forbes Ukraine",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "2bad35b1-fac0-4f06-9407-11769b567534",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "8c0044f6-99c9-4067-a023-ce76ab78f1ca",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "5b38d7bb-36dd-4977-adca-bba5f0c81a22",
+    "Title": "National Geographic",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "642805cb-a4a3-4aa1-8b34-1dd9052297df",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "8774fdcf-d9e5-4a1d-9b47-d1967a10562c",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2009
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "55349330-58e1-407e-a339-e86f7934c646",
+    "Title": "Forbes Ukraine",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 30,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "6df42e91-df64-4845-9f89-015475f901ec",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "e5fe9f1b-f931-49ec-b1ff-c040fd278315",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "85153ec0-ad50-4539-a4f4-632b480e35d2",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "f2c58c97-bc37-4e5b-8c5c-e9db7e94c75b",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "a2b8c666-3ed1-4a75-9b87-5053e05d18d5",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "fa16c492-3b6f-48fc-b054-3e0314a33258",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "2ab87d8e-8e7c-4b0c-a49c-d511d0adf879",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "2c7da0d4-5125-48e3-bfa8-2d5cdaaba207",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "b006c118-c08d-4f40-a8c8-d31e2afc7c60",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "9ecc440a-6fe4-40cb-b3d5-7c2999ab96b1",
+    "Title": "Forbes Ukraine",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "14dd3c31-6a08-4901-9a57-9e16d28cdc58",
+    "Title": "National Geographic",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 11,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "980997fb-2710-468b-a86e-f5027abcff5e",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 11,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "9553b4bd-9cba-4657-80c2-f754350c0397",
+    "Title": "Forbes Ukraine",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 39,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "516bf00c-341d-4bb3-9d02-8e017f74dd9b",
+    "Title": "Vogue UA",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 35,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "6f4e1e47-f50b-4518-a7b1-e815ab91a03d",
+    "Title": "Forbes Ukraine",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 21,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "a651e4a8-c617-41ad-8c8f-0a6ab2194906",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "e5a696f2-dd2b-46d2-974c-8f2cff134886",
+    "Title": "Forbes Ukraine",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "b23d636e-734e-4028-a010-03a3c365dd88",
+    "Title": "Vogue UA",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "5a457578-b41f-4161-876b-afd81abf128b",
+    "Title": "Forbes Ukraine",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "efacba89-9f00-4a6d-8487-d721ada467f7",
+    "Title": "National Geographic",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "541d51ad-e80a-468d-8940-dd63f656a699",
+    "Title": "National Geographic",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 43,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "6faa3529-5f5e-4d3c-a29b-bba57c787530",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "840b8af2-535b-4390-8c55-04c5c76b4a60",
+    "Title": "Vogue UA",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 43,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "31b562e5-ae85-4b3b-adc8-93d43b470d19",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 41,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "f055339f-5533-42c0-9c05-e831b56a45f2",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "edeae26b-dd2a-4926-900b-80a9602bcfaf",
+    "Title": "Forbes Ukraine",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "26c6bb01-ba76-4089-8b96-02b89b4b3783",
+    "Title": "National Geographic",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 15,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "999909d8-1ab2-4ffa-8517-76ccc906b4eb",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "e4555eee-3025-437d-a933-5cd1c07a117f",
+    "Title": "Vogue UA",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "97d10099-01c2-4c1b-aa4c-fd5858802255",
+    "Title": "Vogue UA",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "673b992b-e427-45aa-bb6c-c9e53cd7a08d",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "e5507f8a-9fb5-48d5-893d-7cdee797f510",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 41,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "38c0b8fa-2507-4038-9545-cfe29a2cd7a5",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 39,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "a0feaa60-6162-43e2-96ae-161e27041193",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 39,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "0b558386-7e6c-4f27-b8b4-1181b8fd0c67",
+    "Title": "National Geographic",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "4fca3f5d-2306-454e-897b-f575f99de207",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 35,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "691743dc-3538-4b20-bc19-2f90903d46f5",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "5bc2de37-4d56-4682-a523-36960ba282c3",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 17,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "3eed4601-89fe-4c22-a751-8b96de56fa7c",
+    "Title": "Vogue UA",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 32,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "2047505f-babf-4a4c-b3fd-e28f0eed803f",
+    "Title": "National Geographic",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "2ea7c5d3-88c9-4512-b30a-e1048f4ed3fb",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 51,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "c6fa9c8c-a0c1-450f-bdd9-0501a2859d0f",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "7cd83cca-5230-4962-aae5-103fd8993c3a",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 19,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "9e9c5f57-5f5d-4ee1-af0a-cbd00413c88e",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "3d3b3849-1d25-4a3c-abff-a3558cdea607",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 18,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "23c1cb18-6957-420d-b9ce-55062799c6fb",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 6,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "a874a656-0dd0-4f7f-b904-aea44e035e93",
+    "Title": "National Geographic",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "5f68fad2-6dd6-4ea0-908a-47e8a4adf06a",
+    "Title": "Forbes Ukraine",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "0b9d80fb-2123-4198-96b1-cdda2d52f5f3",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "44e0f333-2a85-4741-a327-c36684ed3dc7",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "c4e6cad4-58f2-40b5-be67-96b9c4c6bab3",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "ac1af019-05fc-4a64-a91d-2c622bb6d38d",
+    "Title": "National Geographic",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 25,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "d832545c-875f-491c-8228-68cc72a06c45",
+    "Title": "National Geographic",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 51,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "268e4002-cdea-4626-a0f6-012b33c9ba2c",
+    "Title": "Forbes Ukraine",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "822fa85b-2af0-4034-bfbf-31c7b452f562",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "74348e06-585e-47e1-a34c-420bfc7c5eb9",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "f7bf3bcf-f11c-48c8-b12e-4454ecf9689f",
+    "Title": "National Geographic",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "f5370495-798f-41d8-94d4-7dfc7c579f44",
+    "Title": "National Geographic",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 17,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "54ee4085-fa4f-44f1-83ed-ff99be76bcd1",
+    "Title": "Forbes Ukraine",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 27,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "23811e9b-9eb4-4808-819d-042bcbb82f48",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 51,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "845da8ee-9129-45e3-a071-d7ff68b8cb3f",
+    "Title": "Forbes Ukraine",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "f9ec1fe0-bdfb-451e-a4f3-b804b56b575a",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "ee242abb-614e-4a4e-b2a9-c7847e371e98",
+    "Title": "National Geographic",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 30,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "56abec30-bfd9-4278-9c85-3809ca12366f",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 30,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "3b18bce8-76bf-47da-887f-2687300ddfc7",
+    "Title": "Forbes Ukraine",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "939627cf-bab0-43e9-a06b-c62d50ba4222",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "44353bfd-689a-4b2b-aba1-4bbe12edab55",
+    "Title": "National Geographic",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "7f39db94-0233-409e-aee1-b7f63ecdf919",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "d0a1d29b-64fc-47dc-bacd-1c63a6fe56d5",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "0fc35eb3-06e3-421b-973d-952f1d1fafc1",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "d6ca4a2a-6ef6-462c-ac81-3f7a12246db5",
+    "Title": "Forbes Ukraine",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "56e89593-6c60-406e-9aff-62a00607e4f0",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 49,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "9e0aa025-a5cf-4da9-805d-4da69813a333",
+    "Title": "Forbes Ukraine",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 39,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "6d7c38b9-b5c8-4967-9a50-5058a7028496",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "a7470069-596b-4fb7-8384-10a6aec343d7",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "daae1ef0-d693-4074-9a57-3fa0eeaea517",
+    "Title": "National Geographic",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 14,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "b391a5c3-7004-4f2b-8a30-bf08e7af6fa0",
+    "Title": "Forbes Ukraine",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 17,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "ae1292d2-99c2-44d0-8d5c-6e9c2b4e55e0",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "755e9c11-4a82-4692-9041-80d9307cda02",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "e3662479-055a-4a98-a5c5-0a44a58380ad",
+    "Title": "National Geographic",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 13,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "440cfbfb-e2ca-4d5f-a66f-a5e895191fbf",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 6,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "0600724e-95a0-41c2-8d77-9a74177b6444",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "3074ca93-0690-48c2-a53d-8d28ab427c96",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 51,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "37984f39-a42f-4beb-a78b-99241114fd9c",
+    "Title": "National Geographic",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "fb2c0a98-a0a1-49de-ab1f-df4c0bd4ca2c",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "45431370-b0db-460f-8b36-4f771c698f90",
+    "Title": "Vogue UA",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 49,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "ce1b1bfd-5543-4e65-be26-27677148b951",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 18,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "d4c09fbf-ec26-48ff-9b41-83a5a44fc9c4",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "dd6a7f16-b0c6-4dad-9ad9-a1c3fdb4e581",
+    "Title": "Forbes Ukraine",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 18,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "a5ce48e7-d263-4532-8f41-055874670b1d",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "54a0d7a3-7cd0-4639-8af9-0de16edaef00",
+    "Title": "Forbes Ukraine",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "f6cd0d01-bd72-4f54-bc4a-3be14a070186",
+    "Title": "National Geographic",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 11,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "d616ef75-e860-4786-ab99-f8ef4fb1e953",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "d72819d9-a772-4860-bfce-0aa51c516598",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 30,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "09266aac-cfa7-44a3-856e-d44497361edd",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "04e6c668-3ecc-490a-87a2-272a8b826db0",
+    "Title": "Forbes Ukraine",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "f91e0542-e215-4841-87e8-2895e2adbfb7",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "7bea7933-93c6-4aab-ae5f-6660b8f71bae",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "40fd79d0-9dba-411a-b986-b5a1a3cbace6",
+    "Title": "Vogue UA",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "b1c717a3-b2e7-4082-8dee-1d64cbda2315",
+    "Title": "National Geographic",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "2020b588-dd07-4fc1-a66a-b3ed697bdcd7",
+    "Title": "National Geographic",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 43,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "4284b631-12ed-42f1-9712-ba2ba547b709",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "422624aa-8ead-4a33-8432-e5f9cecf4c75",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "cdf69f70-8a51-43e5-ab8c-28e297917c7a",
+    "Title": "National Geographic",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 25,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "c5953f9d-5a5b-48c2-8e5c-2f1646b20aaf",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 6,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "4c9aa10a-9b44-4254-8369-257d59c3d447",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "e07c8bcf-1af0-40d8-b603-0d0e7a9ebd4f",
+    "Title": "National Geographic",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "b912c217-1efd-49d6-af39-d0a78020e598",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "9cd29e8a-4937-46aa-b274-6c2f23b6d0e2",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "c7c1f36a-dfe9-4bd1-9591-f35ea2c480a3",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "dbc50f2d-ea36-48e5-8f84-29128d557fb4",
+    "Title": "Forbes Ukraine",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "200b0423-1a6f-4986-b655-311f45c20970",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "4eaaa0dd-5ef3-4c45-bb7a-ee632aff7011",
+    "Title": "National Geographic",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "2aaa3b46-6679-4135-889a-0578f79ab8a0",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "133f6e8f-226d-437e-b5b6-9637d68dc0ab",
+    "Title": "Vogue UA",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 19,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "27ba6dcd-e713-4cc0-996e-ae6c91d51f7f",
+    "Title": "Vogue UA",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "bc815fa5-e4d4-4fd2-a992-89e5eebb32bd",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 51,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "2690d132-1809-44cd-8810-b378b4d49c3e",
+    "Title": "National Geographic",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "29f95b14-f368-4835-a240-3879626ece9a",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "04edd34d-801a-4e6b-a0b2-de77c87b73e5",
+    "Title": "Vogue UA",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 23,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "11df62ec-268e-4a2b-b489-be2ca40ac095",
+    "Title": "Forbes Ukraine",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "4b0cd3c7-0ed3-4591-a786-7212d3b82988",
+    "Title": "National Geographic",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "c9eb9ac6-b461-4704-9b37-d0b1fee2ee51",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "ae40fbe6-c23a-4c3a-93d0-79b352682b48",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 15,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "527ee92b-e5d4-4652-9997-edd4b7e9ff17",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "bd213b28-4f5f-4b29-b355-331fadc21b6a",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "f3ff3ca5-59f1-4814-9465-ae42ceec303e",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 11,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "e2a1d299-90ea-437e-b295-f13f06b6d362",
+    "Title": "Forbes Ukraine",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "e7ce010e-a41c-4fe1-adf0-936cb64380fa",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "d95d67e5-7a29-48a6-8dad-818a18660d46",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "fe629c81-a9d4-4a93-9a08-83c9277e5fda",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "23f51a0e-b3dc-4ae8-b726-8a8e49638ff3",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "a77a2e1b-88f0-4b42-bfa9-275df521fc56",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "9280bafa-fe60-4ccf-9797-4c541515d182",
+    "Title": "Vogue UA",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "2c44d357-3c83-46ac-936a-23e14dc3d5c8",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "82c59896-9b46-4f90-9829-cc2e9af602f7",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "b710a228-7e65-4544-a995-49d4b883ae62",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 17,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "b621e536-c8fc-49df-856f-9e2c1a48aeb0",
+    "Title": "Forbes Ukraine",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "89c7f9f9-6d43-4410-a866-7118c0dca9ad",
+    "Title": "Forbes Ukraine",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "d175cca5-0294-4183-923a-e2964ffd94a3",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 27,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "77807a51-1cf6-48c7-bde0-f994919e9ebe",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 27,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "b2056afd-2943-4d55-8e40-4452daa5924d",
+    "Title": "National Geographic",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "57d66e7b-853e-419a-b35a-ff2e870dc5a3",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 13,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "1d1a662f-c84e-4e36-b81c-b90d6444f468",
+    "Title": "National Geographic",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 25,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "85be92b9-9739-48a1-8db2-1775c5f5ae56",
+    "Title": "Forbes Ukraine",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "809bae0a-0b54-49a1-9454-bb38cedf2867",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "0bfd98a9-61bd-4040-a3b2-48ded5f3e975",
+    "Title": "National Geographic",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "1aa3c057-22a0-435c-972b-833ee3c226cf",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "37d42f18-9184-4855-ac7d-d1bfb84aa412",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "40a4066a-2421-4cf9-8715-a1636421c695",
+    "Title": "Forbes Ukraine",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "b7d6cf45-693b-418d-9481-d89fda41875d",
+    "Title": "Forbes Ukraine",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "7fb1d6bc-071e-4ceb-95e5-af1bc1c2d317",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "5faaf36e-782b-4f46-9bda-5c367f469b83",
+    "Title": "Forbes Ukraine",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "6b5987c0-bc87-4bdb-a19d-64a46db26a97",
+    "Title": "Vogue UA",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "fe5d5207-c7c1-4fc1-8168-25d4aa2a3989",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "76facb18-af10-40fb-9f6a-c1481c8c1b6a",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 32,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "4159ec63-8465-455a-ae1a-3d2141dfae41",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "8e02fe49-fb15-487a-90dd-d192dadac2b2",
+    "Title": "Vogue UA",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "25a3f9f5-15a6-434b-8842-175a9987c136",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "e7a4c52d-a7ea-48a6-a9bc-fc4a79f6c5a7",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "b248577d-160b-4730-97f7-b39936899e39",
+    "Title": "National Geographic",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 35,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "536cf4eb-0d40-4973-85b9-1094b973506f",
+    "Title": "Forbes Ukraine",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 18,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "c128fd68-9849-47fa-9acc-b5d07e0495af",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "0382b023-db9a-407f-a82a-7ba328842776",
+    "Title": "Forbes Ukraine",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "46e10318-b4ae-454f-a25b-b1f89b312d74",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "6972c165-2fe8-4c8c-b3ee-28074ddc9c9a",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "9bcd0d54-8bac-4193-a698-8a669b0cc69a",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "9864dd3e-af8c-4ef7-85d2-bca186937755",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "16cd5f80-0f5e-470d-83de-db0359b2fdcb",
+    "Title": "Vogue UA",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "8b468110-bb2d-4015-895f-3781a43f20b6",
+    "Title": "Forbes Ukraine",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "5904be23-3a18-4e0e-bdc1-c7553cf0ca9b",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "23202a36-649b-4fc3-a378-268a5fa7f11d",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "cd20530d-a21f-419f-95c1-47f7f3b27dc4",
+    "Title": "Forbes Ukraine",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "f7897802-9431-42c8-933f-d544d62071a1",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "c5a6c2e4-dcd0-467a-b325-b04da0c6fe7e",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "01d48959-8457-495b-b791-c9266969cf64",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "943bfb28-a941-4aa8-b962-ddbf4b295a35",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "7cead3da-df7b-4fec-882c-66d7dec5e702",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "bd2c5fc0-ad61-476c-b64c-b733951ba769",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "fa5bedf7-fc83-4fcf-a822-7965c6e152de",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "76e1ebbd-08d5-426d-8360-2fc70d52f911",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "b5d1e82b-4467-4372-a7e1-91f4efacf4fe",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "11c3fb8b-bd96-4904-82d9-cd337d319368",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "629ebc6d-1384-46a0-8701-dc0a7183f42a",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "65d83fba-6cc4-4d5b-81cd-9413f73bd8ed",
+    "Title": "Vogue UA",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 7,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "ab28801d-27f8-478f-9c24-f4a4931ea3fc",
+    "Title": "National Geographic",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "915734cc-20d4-402e-a124-97e7f638af20",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 18,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "7352885f-de52-4a3e-964d-03be53ee7072",
+    "Title": "National Geographic",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "2d1bba04-edbe-4114-8979-bf987d4faf76",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 15,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "7fb247bd-acc7-4289-a07f-dd46067c2f33",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 14,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "2ae24e15-3209-43d2-8170-f26c4ab8e0b4",
+    "Title": "National Geographic",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 19,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "d366b7ad-776d-4db4-8eac-20386e8ab8f6",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 14,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "661161ac-71d9-42a2-9b81-9d00a18ad594",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 13,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "5c4f3f86-e568-4225-a190-7afc2832d36f",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "ad22427e-c364-4da0-936b-2762bbd4b8f3",
+    "Title": "National Geographic",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "9444e12a-9326-469d-af36-e0555767a506",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 7,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "0188563a-ce1f-4e0f-82a8-f3545190e92e",
+    "Title": "Vogue UA",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "62c7764f-05bc-4af3-b7a4-06e81bddb57d",
+    "Title": "National Geographic",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "646828dc-4279-4964-a4c3-fa8f06fdc102",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "b24f2801-bca5-4525-bb9d-c1f2010c3724",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "18854b13-e6a0-47d9-bc70-7254e1936ef7",
+    "Title": "Vogue UA",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 41,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "08b32822-4067-4889-bee2-b2bcdad2fb04",
+    "Title": "Forbes Ukraine",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "92f841f1-585e-4742-9bf4-ab488675a672",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "ae55a832-db99-4137-a2ca-fce746fe93a9",
+    "Title": "National Geographic",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "13a43f1c-cc7a-4f45-8d46-d1c157119209",
+    "Title": "Vogue UA",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "dad16c2d-6d8d-44d8-8e8c-973c54786347",
+    "Title": "Vogue UA",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "3a4fa89e-90dd-46cd-bc1a-00a6cd076166",
+    "Title": "Vogue UA",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "d5082206-b6bf-4875-8bd1-bbbc055ab7af",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 32,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "c7bc2114-8550-418a-b2fe-b4c2f5647723",
+    "Title": "National Geographic",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "f3fa9467-1654-444d-a6c9-c868e6e014b2",
+    "Title": "National Geographic",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "bcdef374-c072-487e-978c-b6ed872f69fd",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "40c62ce5-e4f1-43bd-ac83-181ec8ea42f7",
+    "Title": "National Geographic",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 25,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "370f331b-bba7-4561-8487-30b3c6d2913b",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "c4ad4db3-8b8d-4a31-bf49-5a1c8a24ecd5",
+    "Title": "National Geographic",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "75fa8d0b-b4b3-4903-b338-8cc9438523a6",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "387b537b-8b63-413a-a7bc-23a66d5db1d8",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 49,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "56ddbee3-a415-43bd-8404-a22cca047314",
+    "Title": "Forbes Ukraine",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 41,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "9f64ca8f-6b8c-49e7-8a8f-60958fde0686",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "974be47e-4431-4396-91e8-806483e52e89",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "172d16d3-aa74-4aaf-9932-ce9bb41e61eb",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 51,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "773cd94c-3981-49fc-9249-8cca9c4736ba",
+    "Title": "National Geographic",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "f51d8695-40bd-4dba-bed8-efe9fc389d2b",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "77010d95-018c-4af1-80e9-31a84dd40b14",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "8ecc329a-0781-4567-b3ff-315eed0e1f04",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "72faa546-b5d4-4527-9724-789a1f645c58",
+    "Title": "Vogue UA",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "cc21f1ee-f6e7-4881-85e1-79296548c8a5",
+    "Title": "Vogue UA",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "3a95c8ed-d367-401c-8d90-41c03b58273c",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 23,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "5d831487-daac-4dbf-8fca-ec876c85c1f6",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 1,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "ed86e614-ca80-4d1b-a18c-f794eee991b7",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "eaa17ae8-6eb2-4f17-b727-f5e608a656fe",
+    "Title": "National Geographic",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "1424c8e2-f85a-477e-b80c-ae3395feace1",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 25,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "3d3395f1-9b85-4ea8-b892-29e09a7d5001",
+    "Title": "Vogue UA",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "1711f10f-20cb-4646-9ce4-ced1a35ddef2",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "76e85ce7-9992-4c33-8400-9614a2e2c86b",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 15,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "ffa889cf-8013-49d4-8b5a-d39ff58ad1a6",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "0436fba0-ef87-4a3d-a7e1-d56a31de326c",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "5a52ffc5-b91a-4123-9f26-f90772166aa0",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "52361bbf-8188-45d3-a650-5b0e8221cddd",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "2f4c8aed-4764-44ee-8021-b473555b5cb8",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "bb5a67e1-57a2-40cb-9284-d4cdf8eb29b2",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "75e829df-56b0-4a42-b9e0-2305dffc1311",
+    "Title": "National Geographic",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 27,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "b24d738d-a282-4a19-be97-15fd46744030",
+    "Title": "National Geographic",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "4f1f44d5-d9d8-480d-929f-f40aad99d6a5",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "59b92177-fa2d-48f0-a045-3895ed3593df",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 23,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "31879713-01b0-490e-bc16-a111695162a5",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "a920a65e-4b0e-40b0-9308-a36fcbfc04d7",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 18,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "a78b871a-b968-4ee7-87f3-ddb71cf69e18",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 30,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "84d20b24-e646-438e-882d-4c4b93a0abae",
+    "Title": "Vogue UA",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "99888d7e-5e5b-4b1b-937e-dcdb4d0167f1",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "548b98b7-13f1-4b6d-989f-57f98dcd6626",
+    "Title": "Vogue UA",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "9d0cc46d-915c-44ae-b78d-b0c8a05ecebd",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "0cf03bcc-6fcf-430f-a3b1-01821eff370f",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "e518b56c-bf0e-44e0-8fd2-8029ffea6674",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "601986db-4b57-4781-8d21-15f30471dc53",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "e2d87e74-e9b1-44a7-92bf-e88d33b9ffaa",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "36dc67f6-bad5-405b-a44d-1488d5499b12",
+    "Title": "Forbes Ukraine",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 13,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "abf581ee-0caa-4474-9dae-8a78a02b3a3d",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "eb50a45d-ac48-4bf6-b9f1-96640177fc7a",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "5699b120-ecfb-46b6-a0aa-01ba89aa5c9f",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "2eacfeb4-55c4-48c6-983a-83b8bae59ffd",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "613000ec-6435-4878-bb75-ab8ce8ea9a53",
+    "Title": "National Geographic",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "0451f68b-04b7-43e4-8cd9-573e0c8a14ff",
+    "Title": "Vogue UA",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 21,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "23c52e80-9de1-416f-938e-b35717e1633a",
+    "Title": "Forbes Ukraine",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "8cd46caf-3c06-4879-984a-de80666561e9",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "5b8e0701-f2e1-436e-89de-27b89107500d",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "aaa9bb87-c4e3-4d67-8995-50d2dc1ed568",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "f4552136-0a38-43ee-ba18-9bbd74f253e5",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "917d5116-6990-418c-8001-34c0113374ee",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 17,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "fe7dc69f-e36b-4ab4-b63e-68b7013e045e",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 10,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "e610a834-3f23-4b86-98bf-71e6593ec492",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 25,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "8465f4b7-9eb3-410c-a7b8-610b448c5e17",
+    "Title": "National Geographic",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "bdf3f42e-99d5-4a49-a261-0decea5a36bc",
+    "Title": "Vogue UA",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 13,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "b0057aba-e827-4ec4-849d-952a0d997d22",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 25,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "c1169970-4cbb-447e-9954-6de44be57096",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 30,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "64367115-9b6f-4dd4-8c1e-2961d77fc3ba",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 32,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "e06a2e79-fa51-401d-a14d-5d499b7a7e7e",
+    "Title": "Forbes Ukraine",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "875ee9e7-812d-4de5-b5b4-5f3cfa1b48e4",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "17cf22a4-0d4d-4f70-96ab-ca00991f5cab",
+    "Title": "National Geographic",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 18,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "a56720d1-fd02-424d-9d1a-f7e6289b7414",
+    "Title": "Vogue UA",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 23,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "d52d2635-031b-4cf1-b4d8-05e3c289af57",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 7,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "3a594e94-2f88-44f3-8834-9fd35e02880f",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "8e249195-1049-4d40-b221-7ace8dd7dd5e",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 6,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "ddcf71b0-08c1-409b-9234-7d5b1b1a8ae1",
+    "Title": "Forbes Ukraine",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "179e7118-d4b8-4277-9129-00b6432d26a5",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "6ac34543-e7a5-46ad-b73f-5293b195ec1b",
+    "Title": "Forbes Ukraine",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "53ef8c20-3dfb-4712-99a3-f6c16c1294a8",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "a11ae9f2-ff9b-4962-8a79-6d428ecee094",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "950f2b34-a2db-4c37-995d-ec012bd6ac24",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "890b5783-7a39-4c19-ab02-92bd737b11e5",
+    "Title": "Forbes Ukraine",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "1aba74ec-6bb2-4f44-9cb0-49012d99593a",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 7,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "71a0418d-cf81-4a18-b43b-4620961d05bb",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "8edb316b-ebb6-4a9c-a967-037c54b70dd6",
+    "Title": "National Geographic",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "5a7eb0a1-f6bf-4814-a9b3-f9fe31d0cc78",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "67112339-f584-4d33-bc73-ba3e74fe61b4",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "2dedfa1c-aa2f-4cd5-8ad0-bbda13abc647",
+    "Title": "Vogue UA",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "5d20d5cd-8da3-4287-8803-27a59024dec7",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "a0660c90-7848-4252-8e32-8f3b606fb91d",
+    "Title": "Vogue UA",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "cbf53147-4dd5-4aab-870f-abbe28024029",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "4d8e4990-c931-4793-9275-b5c75d6c9d54",
+    "Title": "Forbes Ukraine",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 15,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "7244d839-51c7-4c15-b16e-dab588e8703a",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "0c46308d-2fca-4bec-bb69-23433b309749",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "037253f4-fe14-4076-9c11-8656f9446d7f",
+    "Title": "National Geographic",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "2b9fb871-ada0-4239-bb04-191747faa5f0",
+    "Title": "Forbes Ukraine",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "6bfa2ca8-ddc7-43a8-a156-0b904d8f1a92",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "24745a22-ac98-4cd8-955f-d045403da2a8",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 46,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "96b448e8-5305-49cc-9d4d-02142aba9346",
+    "Title": "National Geographic",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "68167a66-3416-4320-a315-6977aa95dd81",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "2269b48d-2e5d-480b-bc16-f52f60435e9c",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 4,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "4e608e03-d814-49ef-be6a-62f579e9a2b6",
+    "Title": "Forbes Ukraine",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "9968fc09-76ee-446e-9ca1-1fb11f928be8",
+    "Title": "Forbes Ukraine",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "8aa7a9a7-5c34-408c-9ee1-052393aef0b9",
+    "Title": "Vogue UA",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "2f4beafb-bc75-4fe7-8c29-8c73d3858e6b",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 32,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "355f41a6-96c8-4d35-8a1e-6d58ef9cd9c3",
+    "Title": "Vogue UA",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "e2245ab2-da89-428a-a1b3-d2d291cb7dd5",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 19,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "ae5aa691-1c8a-4c14-9902-b947cfa9b1d6",
+    "Title": "Forbes Ukraine",
+    "Year": 2009
+  },
+  {
+    "IssueNumber": 14,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "3d9ec199-83ce-447d-a5a2-2a873ca7d6d8",
+    "Title": "Forbes Ukraine",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "916180cc-b7f4-408a-a250-68287def0b6a",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 17,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "3090974e-51de-48ee-9421-39160d1d94bb",
+    "Title": "Forbes Ukraine",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "d6be181a-3282-46f5-a9dc-7fe04977c718",
+    "Title": "National Geographic",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "90237ccf-d9f7-44ef-bd59-30848873b17c",
+    "Title": "National Geographic",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 32,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "280a4c98-5486-45ae-aa84-ed965acbd73e",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "0bbec784-cac7-458f-ba72-874a58177da9",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 46,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "567be44d-e6c7-45b6-a9b3-0feaf03a4fbd",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 31,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "9a4e25fb-0d30-45a1-82e3-8098277240ee",
+    "Title": "Forbes Ukraine",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 23,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "55a96120-45c8-44e9-98ba-3346b55dfb7e",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "d4d88a99-8abb-4b6d-a960-cd39d6f7f2df",
+    "Title": "National Geographic",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 7,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "c6c6c94b-6762-48cc-a067-12204f5dbcc5",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "fad7e941-426c-4c69-8161-4bb387c705e3",
+    "Title": "Vogue UA",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "553b933c-113e-4253-8a55-da00cb5f8804",
+    "Title": "Vogue UA",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "245f4dae-3ef2-4123-b270-fd4b1063b4be",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "eb3fffc0-c5f5-4b80-8430-f261879a32c8",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 16,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "75c22336-79d6-420f-959e-65482ed8d5cc",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 46,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "245bcee8-f81e-49e1-86be-eec02d35da5b",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "294710b2-f55e-4bbb-a22a-b73eb87956e2",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "335c9280-6933-4b1f-8393-7920006e7e67",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 26,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "93b9548e-6d8e-4715-9f27-140b1c616d94",
+    "Title": "Vogue UA",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 46,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "f90bf757-60ee-4874-a05f-162aea3b156b",
+    "Title": "Vogue UA",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 51,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "151b413e-ce80-44fc-86f0-77afade08628",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "49051de7-b92c-4695-b409-cf769372425d",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "9ef3e0c4-d93c-4b2c-8ed2-c0b032ddfb01",
+    "Title": "Forbes Ukraine",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 37,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "6cd27450-7168-48af-9433-13966a9d7fdc",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 35,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "221e6cb6-66ed-474e-9e03-fdc3973bd4a6",
+    "Title": "Forbes Ukraine",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 5,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "0acacdd2-6ed6-406a-b8bf-25ebb14ad4c7",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 43,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "5fe3420d-ffd6-424c-a113-2fd2ce735e2a",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "9795a4aa-4860-4924-9725-08c4b8fbab41",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 21,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "90c10365-3d7e-4e0e-8a9c-1843be540bca",
+    "Title": "Forbes Ukraine",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 13,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "6c5b778c-3fde-4bee-ac1c-825b7a8bb078",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "6d6fd9e3-e506-4086-aa28-add7a7468333",
+    "Title": "Forbes Ukraine",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "15f11be1-1c9b-42d1-80db-ffd556c5f9ea",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "c9fb00d8-8199-4dce-b77e-0030e537bbdb",
+    "Title": "Vogue UA",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "c5ac5b2e-05a6-43df-92fd-853f2244d6b7",
+    "Title": "National Geographic",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 49,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "153213e8-3d86-4e16-ae23-73cf67978f91",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2009
+  },
+  {
+    "IssueNumber": 9,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "8c724e7d-45ff-4193-baa6-b9e06860ec29",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "f666b51b-c3b2-4870-a02a-b354c3c0ef6c",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2022
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "88ee64af-fca3-448b-ae9d-2c5e3a0a0dc1",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "86304721-3aeb-4d2e-aae7-141b8ee341d5",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "0f47e43d-fc3e-4e39-86ae-ca465467d857",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 21,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "4a151990-3987-4e6b-98aa-0d366e12d8c0",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "7a2110a4-e89d-49fc-9107-06ce4617ff9e",
+    "Title": "Forbes Ukraine",
+    "Year": 2009
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "ceb3ec43-da53-4552-bc14-f2b8b2a688f3",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "038b06cc-9b4a-49f8-a637-1ca439840225",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 36,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "b72cc6ad-12ff-41f3-9925-16f28b23220b",
+    "Title": "Vogue UA",
+    "Year": 2015
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "e8165e90-cbae-4574-9f9d-e589f10813f6",
+    "Title": "Vogue UA",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "6bc48821-4f6b-4a3c-9197-1665b01a2bd3",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 24,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "18416f80-db0d-4b84-831f-73025f92f1a8",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "29ea880b-425e-4c70-b70c-2141a044f820",
+    "Title": "Forbes Ukraine",
+    "Year": 2017
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "afe8aac2-befd-4102-9ccc-f3707f4a5ead",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "238a9191-019e-465b-98a2-4255f518a57a",
+    "Title": "National Geographic",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "631f1421-0f7c-4a75-8cdb-acfbe8529cd4",
+    "Title": "Vogue UA",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "c07593a9-68af-497b-b3fd-e4c20729d3e9",
+    "Title": "National Geographic",
+    "Year": 2019
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "47daf054-4c9a-4f42-8545-4e40ba4f9d45",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "545e9a50-7c28-4eaf-aac5-6f66677b120b",
+    "Title": "Forbes Ukraine",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 44,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "b04c845e-0c7e-4685-9af1-724cb6d421de",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 41,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "3a54684e-acf2-40d9-9c0b-d0f37d482215",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 17,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "f8da5c0a-ee99-4364-a749-6b71a59b89e9",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2003
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "e1b96e7b-19eb-48aa-a2a3-d7dd40d4bc2f",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2008
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "073b8a2f-c2dd-47a9-8911-b5a3522dc4e8",
+    "Title": "Vogue UA",
+    "Year": 2005
+  },
+  {
+    "IssueNumber": 49,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "d331dd1c-9e47-471b-966c-6869068fac9b",
+    "Title": "Vogue UA",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "830ead84-882f-4c56-901b-567e49050cc0",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2004
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "6807d063-8230-4fe3-a90c-8e520aa4c892",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 49,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "13241468-4c75-4a1f-b267-79fb7d3df982",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2021
+  },
+  {
+    "IssueNumber": 47,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "e686497e-d7a3-4e1e-a1f3-8b9813394269",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2013
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "e918e55d-d4e9-40e4-bbe4-34593b74243c",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 45,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "9f2e1d47-d752-4e12-aef0-d348d3f1599b",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2010
+  },
+  {
+    "IssueNumber": 48,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "68a7da0d-efdb-472c-a4ea-3b66abf6317d",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "a163182e-bfdd-471c-bf8f-c530ad347c03",
+    "Title": "Vogue UA",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0421\u0443\u0441\u043F\u0456\u043B\u044C\u0441\u0442\u0432\u043E",
+    "Id": "78371b43-73bf-4e44-b74a-f4f1687aef2e",
+    "Title": "Vogue UA",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 30,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "16e5d2b4-30d0-4994-b27a-ec155ce8a27e",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2011
+  },
+  {
+    "IssueNumber": 32,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041F\u043E\u043B\u0456\u0442\u0438\u043A\u0430",
+    "Id": "92bffbc8-abd3-47a7-960a-7ea9a7b1d212",
+    "Title": "Forbes Ukraine",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 22,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "27d11681-0bc3-411b-a684-0783fbdf8536",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 2,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "90912e68-ba4a-47e2-a335-92b53d0220af",
+    "Title": "\u0422\u0438\u0436\u0434\u0435\u043D\u044C",
+    "Year": 2018
+  },
+  {
+    "IssueNumber": 40,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "e5c1ac41-e49b-4c5d-97ec-6d395b9e4bc9",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2020
+  },
+  {
+    "IssueNumber": 41,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "9e2ddff6-8278-4749-897c-143cf54a652e",
+    "Title": "Vogue UA",
+    "Year": 2016
+  },
+  {
+    "IssueNumber": 12,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "d5329a8d-9397-493c-8ded-6df293dcfb83",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2012
+  },
+  {
+    "IssueNumber": 20,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "c4c293b6-8434-4b89-844d-d062d0f4137d",
+    "Title": "\u0424\u043E\u043A\u0443\u0441",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 29,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "0d891cd7-bb6f-44e1-8c46-2f69f8d280cf",
+    "Title": "Forbes Ukraine",
+    "Year": 2002
+  },
+  {
+    "IssueNumber": 50,
+    "Publisher": "\u0424\u043E\u043A\u0443\u0441 \u041C\u0435\u0434\u0456\u0430",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "6c2d0409-a1ae-4eb9-8bb4-d70f278d3fbb",
+    "Title": "National Geographic",
+    "Year": 2024
+  },
+  {
+    "IssueNumber": 38,
+    "Publisher": "National Geographic Society",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "09bda5ff-302f-4a64-93ba-018e645d6d70",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2001
+  },
+  {
+    "IssueNumber": 33,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "d131fad2-ef2e-45c3-bb0c-e144c17c4f77",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 3,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "bd364849-4753-4d75-9e7a-bc110252ed73",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2007
+  },
+  {
+    "IssueNumber": 13,
+    "Publisher": "Forbes Media",
+    "Topic": "\u0422\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0456\u0457",
+    "Id": "5193c3a4-7b0a-48d2-b046-de7e22ea66e7",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2006
+  },
+  {
+    "IssueNumber": 28,
+    "Publisher": "Forbes Media",
+    "Topic": "\u041C\u043E\u0434\u0430",
+    "Id": "02227c0e-78ba-4989-adda-6ddbcb7c3285",
+    "Title": "Vogue UA",
+    "Year": 2014
+  },
+  {
+    "IssueNumber": 34,
+    "Publisher": "\u0412\u0438\u0434\u0430\u0432\u043D\u0438\u0446\u0442\u0432\u043E \u041A\u0440\u0430\u0457\u043D\u0430",
+    "Topic": "\u041D\u0430\u0443\u043A\u0430",
+    "Id": "61de2fb6-f013-4c85-91e8-3025e354aec3",
+    "Title": "Vogue UA",
+    "Year": 2000
+  },
+  {
+    "IssueNumber": 8,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u041A\u0443\u043B\u044C\u0442\u0443\u0440\u0430",
+    "Id": "03b1c4eb-e39b-41db-b2c9-67ae18fe5895",
+    "Title": "\u041A\u0440\u0430\u0457\u043D\u0430",
+    "Year": 2023
+  },
+  {
+    "IssueNumber": 42,
+    "Publisher": "Cond\u00E9 Nast",
+    "Topic": "\u0411\u0456\u0437\u043D\u0435\u0441",
+    "Id": "fe5adb33-bfad-463f-aec0-7d2b23b7c46d",
+    "Title": "\u041A\u043E\u0440\u0440\u0435\u0441\u043F\u043E\u043D\u0434\u0435\u043D\u0442",
+    "Year": 2021
+  }
+]

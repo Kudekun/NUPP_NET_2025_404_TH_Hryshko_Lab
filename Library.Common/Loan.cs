@@ -16,7 +16,6 @@ public class Loan
         DueDate = DateTime.Now.AddDays(14);
     }
 
-    // конструктор з параметрами
     public Loan(Guid memberId, Guid itemId, int daysToReturn = 14)
     {
         Id = Guid.NewGuid();
@@ -26,10 +25,16 @@ public class Loan
         DueDate = DateTime.Now.AddDays(daysToReturn);
     }
 
+    // статичний метод
+    public static Loan CreateNew()
+    {
+        var rnd = Random.Shared;
+        return new Loan(Guid.NewGuid(), Guid.NewGuid(), rnd.Next(7, 30));
+    }
+
     // метод
     public bool IsOverdue() => DateTime.Now > DueDate;
 
-    // метод
     public string GetInfo()
     {
         return $"Видача: Читач={MemberId} | Книга={ItemId} | До: {DueDate:dd.MM.yyyy} | Прострочено: {IsOverdue()}";

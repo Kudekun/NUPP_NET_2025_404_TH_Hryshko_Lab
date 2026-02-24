@@ -1,101 +1,127 @@
 using Library.Common;
 
 Console.OutputEncoding = System.Text.Encoding.UTF8;
+Console.WriteLine("=== Бібліотечна система — Лабораторна 2 ===\n");
 
-Console.WriteLine("=== Система управління бібліотекою ===\n");
+// ============================================================
+// 1. Паралельне створення 1000 книг через CrudServiceAsync
+// ============================================================
+Console.WriteLine("--- Паралельне створення 1000 книг ---");
 
-// --- CRUD для книг ---
-var bookService = new CrudService<Book>(b => b.Id);
+var bookService = new CrudServiceAsync<Book>(b => b.Id, "books.json");
 
-// CREATE
-Console.WriteLine("-- Додаємо книги --");
-var book1 = new Book("Кобзар", 1840, "Тарас Шевченко", "978-966-01-0001-1", 312);
-var book2 = new Book("Тіні забутих предків", 1913, "Михайло Коцюбинський", "978-966-01-0002-8", 128);
-var book3 = new Book("Ворошиловград", 2010, "Сергій Жадан", "978-966-01-0003-5", 448);
+var tasks = new List<Task>();
+Parallel.For(0, 1000, i =>
+{
+    var book = Book.CreateNew();
+    tasks.Add(bookService.CreateAsync(book));
+});
+await Task.WhenAll(tasks);
 
-bookService.Create(book1);
-bookService.Create(book2);
-bookService.Create(book3);
+var allBooks = (await bookService.ReadAllAsync()).Cast<Book>().ToList();
+Console.WriteLine($"Створено книг: {allBooks.Count}");
 
-Console.WriteLine($"Додано: {book1.ToShortString()}");
-Console.WriteLine($"Додано: {book2.ToShortString()}");
-Console.WriteLine($"Додано: {book3.ToShortString()}");
+// ============================================================
+// 2. LINQ — статистика по числових полях
+// ============================================================
+Console.WriteLine("\n--- LINQ статистика по книгах ---");
 
-// READ ALL
-Console.WriteLine("\n-- Всі книги у сервісі --");
-foreach (var book in bookService.ReadAll())
-    Console.WriteLine($"  {book.GetInfo()}");
+Console.WriteLine($"Сторінки — Мін: {allBooks.Min(b => b.Pages)}, Макс: {allBooks.Max(b => b.Pages)}, Середнє: {allBooks.Average(b => b.Pages):F1}");
+Console.WriteLine($"Рік      — Мін: {allBooks.Min(b => b.Year)}, Макс: {allBooks.Max(b => b.Year)}, Середнє: {allBooks.Average(b => b.Year):F1}");
 
-// READ ONE
-Console.WriteLine($"\n-- Читаємо книгу за ID ({book2.Id}) --");
-var found = bookService.Read(book2.Id);
-Console.WriteLine($"  {found.GetInfo()}");
+var topAuthor = allBooks.GroupBy(b => b.Author).OrderByDescending(g => g.Count()).First();
+Console.WriteLine($"Найпопулярніший автор: {topAuthor.Key} ({topAuthor.Count()} книг)");
 
-// UPDATE
-Console.WriteLine("\n-- Оновлюємо книгу \"Кобзар\" (змінюємо кількість сторінок) --");
-book1.Pages = 350;
-bookService.Update(book1);
-Console.WriteLine($"  Оновлено: {bookService.Read(book1.Id).GetInfo()}");
+// Пагінація — сторінка 1, по 5 елементів
+var page1 = await bookService.ReadAllAsync(1, 5);
+Console.WriteLine($"\nПагінація (сторінка 1, 5 елементів):");
+foreach (var b in page1)
+    Console.WriteLine($"  {b.GetInfo()}");
 
-// REMOVE
-Console.WriteLine("\n-- Видаляємо \"Ворошиловград\" --");
-bookService.Remove(book3);
-Console.WriteLine("  Після видалення:");
-foreach (var book in bookService.ReadAll())
-    Console.WriteLine($"  {book.GetInfo()}");
+// ============================================================
+// 3. Збереження колекції у файл (async)
+// ============================================================
+Console.WriteLine("\n--- Збереження у файл ---");
+await bookService.SaveAsync();
+Console.WriteLine("Збережено 1000 книг у books.json");
 
-// --- CRUD для журналів ---
-Console.WriteLine("\n--- CRUD для журналів ---");
-var magazineService = new CrudService<Magazine>(m => m.Id);
+// ============================================================
+// 4. Приклади примітивів синхронізації
+// ============================================================
+Console.WriteLine("\n--- Приклади синхронізації ---");
 
-var mag1 = new Magazine("Країна", 2024, 45, "Видавництво Країна", "Суспільство");
-var mag2 = new Magazine("Forbes Ukraine", 2024, 12, "Forbes", "Бізнес");
-magazineService.Create(mag1);
-magazineService.Create(mag2);
+// Lock
+Console.WriteLine("Lock:");
+int lockCounter = 0;
+object lockObj = new();
+Parallel.For(0, 100, _ =>
+{
+    lock (lockObj)
+    {
+        lockCounter++;
+    }
+});
+Console.WriteLine($"  Lock: лічильник після 100 паралельних інкрементів = {lockCounter}");
 
-Console.WriteLine("-- Всі журнали --");
-foreach (var mag in magazineService.ReadAll())
-    Console.WriteLine($"  {mag.GetInfo()}");
+// Semaphore — обмежуємо до 3 одночасних потоків
+Console.WriteLine("Semaphore:");
+var semaphore = new SemaphoreSlim(3, 3);
+int semCounter = 0;
+var semTasks = Enumerable.Range(0, 10).Select(async i =>
+{
+    await semaphore.WaitAsync();
+    try
+    {
+        Interlocked.Increment(ref semCounter);
+        await Task.Delay(10);
+    }
+    finally
+    {
+        semaphore.Release();
+    }
+});
+await Task.WhenAll(semTasks);
+Console.WriteLine($"  Semaphore: виконано 10 завдань з обмеженням 3 одночасно, всього: {semCounter}");
 
-// --- CRUD для читачів ---
-Console.WriteLine("\n--- CRUD для читачів ---");
-var memberService = new CrudService<Member>(m => m.Id);
+// AutoResetEvent — сигналізація між потоками
+Console.WriteLine("AutoResetEvent:");
+var autoEvent = new AutoResetEvent(false);
+string? receivedMessage = null;
 
-var member1 = new Member("Олена Петренко", "olena@email.com");
-var member2 = new Member("Іван Коваль", "ivan@email.com");
-memberService.Create(member1);
-memberService.Create(member2);
+var producer = Task.Run(() =>
+{
+    Thread.Sleep(50);
+    receivedMessage = "Дані готові!";
+    autoEvent.Set();
+});
 
-Console.WriteLine("-- Всі читачі --");
-foreach (var member in memberService.ReadAll())
-    Console.WriteLine($"  {member.GetInfo()}");
+var consumer = Task.Run(() =>
+{
+    autoEvent.WaitOne();
+    Console.WriteLine($"  AutoResetEvent: отримано сигнал — '{receivedMessage}'");
+});
 
-// --- CRUD для видач ---
-Console.WriteLine("\n--- CRUD для видач ---");
-var loanService = new CrudService<Loan>(l => l.Id);
+await Task.WhenAll(producer, consumer);
 
-var loan1 = new Loan(member1.Id, book1.Id, 14);
-var loan2 = new Loan(member2.Id, book2.Id, 7);
-loanService.Create(loan1);
-loanService.Create(loan2);
+// ============================================================
+// 5. Паралельне створення журналів + статистика
+// ============================================================
+Console.WriteLine("\n--- 500 журналів паралельно ---");
+var magazineService = new CrudServiceAsync<Magazine>(m => m.Id, "magazines.json");
+Parallel.For(0, 500, i =>
+{
+    var mag = Magazine.CreateNew();
+    magazineService.CreateAsync(mag).Wait();
+});
 
-Console.WriteLine("-- Всі видачі --");
-foreach (var loan in loanService.ReadAll())
-    Console.WriteLine($"  {loan.GetInfo()}");
+var allMags = (await magazineService.ReadAllAsync()).Cast<Magazine>().ToList();
+Console.WriteLine($"Журналів: {allMags.Count}");
+Console.WriteLine($"Випуск — Мін: {allMags.Min(m => m.IssueNumber)}, Макс: {allMags.Max(m => m.IssueNumber)}, Середнє: {allMags.Average(m => m.IssueNumber):F1}");
 
-// Статичний метод
-Console.WriteLine($"\n-- Загальна кількість створених елементів бібліотеки: {LibraryItem.GetTotalItems()} --");
+var topTopic = allMags.GroupBy(m => m.Topic).OrderByDescending(g => g.Count()).First();
+Console.WriteLine($"Найпопулярніша тема: {topTopic.Key} ({topTopic.Count()} журналів)");
 
-// Save / Load (додаткове завдання)
-Console.WriteLine("\n--- Save / Load ---");
-string path = "books.json";
-bookService.Save(path);
-Console.WriteLine($"Збережено книги у файл: {path}");
-
-var bookService2 = new CrudService<Book>(b => b.Id);
-bookService2.Load(path);
-Console.WriteLine($"Завантажено з файлу {path}:");
-foreach (var book in bookService2.ReadAll())
-    Console.WriteLine($"  {book.GetInfo()}");
+await magazineService.SaveAsync();
+Console.WriteLine("Збережено 500 журналів у magazines.json");
 
 Console.WriteLine("\n=== Готово! ===");
