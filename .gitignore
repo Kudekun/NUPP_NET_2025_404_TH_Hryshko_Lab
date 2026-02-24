@@ -47,3 +47,7 @@ Thumbs.db
 
 ## JSON output files
 books.json
+magazines.json
+
+## SQLite — потрібен в git по умові лаб3
+!library.db
