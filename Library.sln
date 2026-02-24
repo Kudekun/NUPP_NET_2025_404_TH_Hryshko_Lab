@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Common", "Library.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Console", "Library.Console\Library.Console.csproj", "{898BC945-7136-41A4-BD6E-ECB973B71AFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Tests", "Library.Tests\Library.Tests.csproj", "{77E63C67-3BF4-4E1F-991A-094073465867}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{898BC945-7136-41A4-BD6E-ECB973B71AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{898BC945-7136-41A4-BD6E-ECB973B71AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{898BC945-7136-41A4-BD6E-ECB973B71AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E63C67-3BF4-4E1F-991A-094073465867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E63C67-3BF4-4E1F-991A-094073465867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E63C67-3BF4-4E1F-991A-094073465867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E63C67-3BF4-4E1F-991A-094073465867}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
